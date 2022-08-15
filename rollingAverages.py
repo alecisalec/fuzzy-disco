@@ -1,3 +1,12 @@
+#Rolling Averages
+#Alec Graham
+#8.14.22
+#Description: get a visual representation
+#of rolling averages of stock
+#part 1 of Quantatative investment Strategy
+#part 2 combine with Robin hood API
+
+
 import numpy as numpy
 import pandas
 import requests 
