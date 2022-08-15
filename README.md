@@ -14,3 +14,11 @@ python3 rollingAverages.py [STOCK_TICKER] [TIME_PERIOD] [ROLLING_AVERAGE]
 #rolling average:
 
 python3 rollingAverages.py KO 100 5
+
+#Apple stock over 45 days with 2 day rolling average:
+python3 rollingAverages.py AAPL 45 2
+
+#Tesla over 200 days with 15 day rolling average:
+python3 rollingAverages.py TSLA 200 15
+
+#etc.
